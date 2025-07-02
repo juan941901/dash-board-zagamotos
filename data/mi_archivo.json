@@ -1,0 +1,6034 @@
+[
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 30900,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 34066,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 35124,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Desiste",
+        "actividad_bitacora": "Rechazo Financiero"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Luz Adriana  Garcia  Romero",
+        "id_bitacora": 54605,
+        "punto_de_venta": "PAP",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 57347,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 57494,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 58939,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 59654,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Xiomara Arias Hoyos",
+        "id_bitacora": 60822,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Desiste",
+        "actividad_bitacora": "Rechazo Financiero"
+    },
+    {
+        "marca": null,
+        "asesor": "Juan Sebastian Gonzalez Moreno",
+        "id_bitacora": 60996,
+        "punto_de_venta": "ZAGAMOTOS MADRID CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 61198,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 61520,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 61547,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 61711,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 62007,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 62100,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 62366,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 62627,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 62637,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 62879,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 62896,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 62927,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 62931,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 62937,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 62951,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 62951,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 62954,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Desiste",
+        "actividad_bitacora": "Rechazo Financiero"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 62970,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 62972,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 62974,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 62974,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 62974,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 62983,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63029,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63034,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63034,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63046,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63047,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63070,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63088,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63089,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63090,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63090,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63091,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Juan Sebastian Gonzalez Moreno",
+        "id_bitacora": 63092,
+        "punto_de_venta": "ZAGAMOTOS MADRID CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63093,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63093,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63094,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63095,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63096,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63096,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63097,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63098,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63100,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63101,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 63102,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63103,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63104,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63105,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63105,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63106,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63107,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63108,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63109,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63110,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63111,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63112,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63112,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63113,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 63114,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 63115,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63116,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63117,
+        "punto_de_venta": null,
+        "estado_bitacora": null,
+        "actividad_bitacora": null
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63118,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63119,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63120,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63121,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63123,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63124,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63125,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63126,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63127,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63128,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63129,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63130,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "BAJAJ",
+        "asesor": "Tatiana Herrera ",
+        "id_bitacora": 63131,
+        "punto_de_venta": "UMA CL 70",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63132,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63133,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63134,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63135,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 63136,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63137,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63138,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63139,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63140,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63141,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63142,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63143,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63144,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63145,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63146,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 63147,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63148,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63148,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63149,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63150,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63151,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63152,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63153,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63154,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63155,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63155,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63156,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63157,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63158,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63159,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63160,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63160,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63161,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63162,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63163,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63163,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63164,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 63165,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63166,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63167,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63168,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63169,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63170,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63171,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63171,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63172,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Juan Sebastian Gonzalez Moreno",
+        "id_bitacora": 63173,
+        "punto_de_venta": "ZAGAMOTOS MADRID CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63174,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63174,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63175,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63176,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63177,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63178,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63179,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Natalia Hidalgo Agudelo",
+        "id_bitacora": 63180,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Juan Sebastian Gonzalez Moreno",
+        "id_bitacora": 63181,
+        "punto_de_venta": "ZAGAMOTOS MADRID CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63182,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63183,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63184,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63185,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63186,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63187,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 63188,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63189,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63190,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63191,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 63192,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63193,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63194,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63195,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63196,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63197,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63198,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63199,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63200,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63201,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Juan Sebastian Gonzalez Moreno",
+        "id_bitacora": 63202,
+        "punto_de_venta": "ZAGAMOTOS MADRID CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Adriana Lucia Yepes Ortiz",
+        "id_bitacora": 63203,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63204,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63205,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63206,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63207,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63208,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63209,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63210,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63211,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63212,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63213,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63213,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63214,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63215,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63216,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63217,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63217,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63218,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63219,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63220,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63221,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63222,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63223,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63223,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63224,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63225,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63226,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63227,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63228,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63228,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63229,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63230,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63231,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63232,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63234,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63235,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63236,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63237,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63238,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63239,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63240,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63241,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63242,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63243,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63244,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63244,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63245,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63246,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63247,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63248,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63249,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63249,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63250,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63251,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63252,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63253,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63254,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63255,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63256,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Erika Vanessa Lopez Cardenas",
+        "id_bitacora": 63257,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63258,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63259,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63259,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63260,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63261,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63262,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63262,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63263,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63264,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63265,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63266,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63267,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63268,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63269,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63270,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63271,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63272,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Natalia Hidalgo Agudelo",
+        "id_bitacora": 63273,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63274,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63275,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63275,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63276,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63277,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63278,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63279,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63280,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63281,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63282,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63283,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63284,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63285,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63285,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63286,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63287,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63288,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63289,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63290,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63291,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63292,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 63293,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63294,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63294,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63295,
+        "punto_de_venta": null,
+        "estado_bitacora": null,
+        "actividad_bitacora": null
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63296,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63297,
+        "punto_de_venta": null,
+        "estado_bitacora": null,
+        "actividad_bitacora": null
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63298,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 63299,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63300,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Natalia Hidalgo Agudelo",
+        "id_bitacora": 63301,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63302,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63303,
+        "punto_de_venta": null,
+        "estado_bitacora": null,
+        "actividad_bitacora": null
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63304,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63305,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63306,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63307,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63308,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63309,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63310,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63311,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63312,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63313,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63314,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63314,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63315,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 63316,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63317,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63318,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63318,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63319,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63320,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63321,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63321,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63322,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63322,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63323,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63324,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63324,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63325,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63326,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63327,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63328,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63329,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63330,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63331,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63332,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63333,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63334,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63335,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63335,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63336,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63337,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 63338,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63339,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63340,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63341,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63342,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63343,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63344,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63345,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63345,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63346,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63347,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63348,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63349,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63350,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63351,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63352,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63353,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Diana Marcela Barrantes Cortes",
+        "id_bitacora": 63355,
+        "punto_de_venta": "ZAGAMOTOS SANTANDER",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63356,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Desiste",
+        "actividad_bitacora": "Rechazo Financiero"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 63357,
+        "punto_de_venta": null,
+        "estado_bitacora": null,
+        "actividad_bitacora": null
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 63358,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63359,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63360,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63361,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63362,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63363,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63364,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63365,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63366,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63366,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63367,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63368,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63369,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 63370,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63371,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63371,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63372,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63373,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 63374,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63375,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63376,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 63377,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63378,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Natalia Hidalgo Agudelo",
+        "id_bitacora": 63379,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63380,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Lady Yanila Roa Pinzon",
+        "id_bitacora": 63381,
+        "punto_de_venta": "RESTREPO - AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63382,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Cuota Inicial"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63383,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63384,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63385,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63386,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63387,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63387,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63388,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63389,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Lady Yanila Roa Pinzon",
+        "id_bitacora": 63390,
+        "punto_de_venta": "RESTREPO - AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63391,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63392,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63393,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63394,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63395,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63396,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63397,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63398,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63399,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63400,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63400,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63401,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63402,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63403,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63404,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63405,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63406,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Cuota Inicial"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63407,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63408,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63409,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63410,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63411,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 63412,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente Por inventario"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63413,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63414,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63415,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63416,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 63417,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63418,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63419,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63420,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63421,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 63422,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente Por inventario"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63423,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63424,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63425,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63426,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63427,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63428,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63429,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63430,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63431,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63432,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63433,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63434,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63435,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63436,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63437,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63438,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 63439,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63440,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 63441,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente Por inventario"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63442,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63443,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63444,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63445,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63446,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 63447,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63448,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63449,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63450,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63451,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 63452,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63453,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63454,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63455,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63461,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Brian Agudelo Suelto",
+        "id_bitacora": 63462,
+        "punto_de_venta": "DIGITAL CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63499,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63514,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63531,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63549,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63551,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 63556,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63563,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63573,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63575,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63578,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63580,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63584,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 63585,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 63607,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63608,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63617,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63625,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63637,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63642,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63643,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63664,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63684,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Laura Valentina Diaz  Pineda",
+        "id_bitacora": 63695,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63720,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63736,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63738,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63747,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Diana Marcela Barrantes Cortes",
+        "id_bitacora": 63767,
+        "punto_de_venta": "ZAGAMOTOS SANTANDER",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 63768,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 63785,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63793,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63801,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63820,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63821,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63829,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63841,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63852,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 63854,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63927,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63944,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 63954,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64011,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64017,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64048,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64055,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 64069,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64071,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64076,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64077,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64084,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64092,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64116,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64122,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64125,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64129,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64136,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 64137,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 64176,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64178,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Lady Yanila Roa Pinzon",
+        "id_bitacora": 64179,
+        "punto_de_venta": "RESTREPO - AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 64185,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64186,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 64206,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64223,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 64234,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 64246,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Lady Yanila Roa Pinzon",
+        "id_bitacora": 64251,
+        "punto_de_venta": "RESTREPO - AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 64252,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Lady Yanila Roa Pinzon",
+        "id_bitacora": 64261,
+        "punto_de_venta": "RESTREPO - AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 64270,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 64278,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 64279,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64286,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64289,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64295,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64300,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64314,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64321,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64328,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 64358,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Astrid Mora  Cardenas",
+        "id_bitacora": 64372,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64382,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64399,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64423,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 64466,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Luz Adriana  Garcia  Romero",
+        "id_bitacora": 64468,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64471,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64480,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64484,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64488,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64525,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64547,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64567,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 64571,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 64577,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64600,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64607,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64614,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64623,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 64624,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64644,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64652,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64656,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64702,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 64720,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 64722,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 64727,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64735,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 64748,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 64835,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64838,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 64843,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 64853,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64863,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64872,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64886,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 64909,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64933,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64944,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 64945,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 64996,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 64998,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65006,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65023,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 65034,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 65047,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65071,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65073,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65078,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 65083,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65115,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65121,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65167,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65172,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65199,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65218,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65224,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65241,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65245,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65250,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 65311,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65318,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65322,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65324,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65332,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 65354,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65374,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65397,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 65411,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 65421,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 65427,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 65428,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65440,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 65459,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 65463,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65485,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65506,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65519,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 65524,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Natalia Hidalgo Agudelo",
+        "id_bitacora": 65554,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65594,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65608,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65657,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 65671,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65684,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 65691,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 65700,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 65706,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65714,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jose Maria Iregui Jimmenez",
+        "id_bitacora": 65715,
+        "punto_de_venta": "PEREIRA LA 21",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65742,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65746,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65797,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 65858,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 65882,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65886,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65918,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65931,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65934,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 65988,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 66033,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66052,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66053,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66094,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66119,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66123,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66124,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66131,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66170,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 66182,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 66186,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66189,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 66206,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66218,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 66221,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 66232,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Hangelee Nykoll Rodriguez Barrera",
+        "id_bitacora": 66237,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66238,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 66241,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 66248,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66259,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 66272,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66284,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66294,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66302,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66313,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66340,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66373,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66395,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66407,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66420,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 66425,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 66441,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66474,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66477,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Maria Del Pilar Garcia Ortiz",
+        "id_bitacora": 66482,
+        "punto_de_venta": "ZAGAMOTOS FUNZA CUNDINAMARCA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Lina Marcela Almanza Correa",
+        "id_bitacora": 66494,
+        "punto_de_venta": "SUZUKY MEDELLIN",
+        "estado_bitacora": "No atiende",
+        "actividad_bitacora": "No Atiende"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 66495,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "BAJAJ",
+        "asesor": "Luz Adriana  Garcia  Romero",
+        "id_bitacora": 66499,
+        "punto_de_venta": "PAP",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66513,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66542,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66543,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66547,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66552,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66556,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66567,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 66571,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66588,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Estudio de credito"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66612,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66662,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 66670,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 66682,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66702,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66703,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66755,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Yiseth Stephany Figueredo Lozano",
+        "id_bitacora": 66761,
+        "punto_de_venta": "LA 76 - HEROES -AKT BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66762,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 66780,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Cuota Inicial"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 66785,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66803,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66825,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 66829,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66834,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jessica Garcia Tovar",
+        "id_bitacora": 66837,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 66846,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leydi Valeria Villota Pena",
+        "id_bitacora": 66850,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 66856,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66866,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 66883,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66885,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66913,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66930,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66931,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66937,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66944,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66955,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 66967,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 66985,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Jackeline Velasquez Guerrero",
+        "id_bitacora": 66988,
+        "punto_de_venta": "SUZUKI 7 DE AGOSTO CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 67020,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67043,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67066,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67085,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67088,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67095,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67110,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Angie Daniela Quintana Muñoz",
+        "id_bitacora": 67146,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67149,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67153,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67191,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67200,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67212,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67235,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67246,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67255,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67261,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67289,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 67298,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 67357,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67370,
+        "punto_de_venta": "ZAGAMOTOS CL 70 CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67375,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67411,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67486,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Gina Andrea Fula  ",
+        "id_bitacora": 67490,
+        "punto_de_venta": "ZAGAMOTOS CARTAGO",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67509,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67511,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67512,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "AKT",
+        "asesor": "Jhon Fredy Velasquez Ramirez",
+        "id_bitacora": 67526,
+        "punto_de_venta": "PEREIRA LA 19",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 67550,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67556,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67561,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67595,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67618,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67623,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67625,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67642,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67647,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67652,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 67667,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Santiago Henao Ramirez",
+        "id_bitacora": 67679,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Entregado"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67698,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67724,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Anulado"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67733,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "En Facturacion"
+    },
+    {
+        "marca": null,
+        "asesor": "Esther Isabella Rodriguez Dictamen",
+        "id_bitacora": 67737,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": "SUZUKI",
+        "asesor": "Jose Fernando Villota Anacona",
+        "id_bitacora": 67753,
+        "punto_de_venta": "ZGM CALIMA SUZUKI CALI",
+        "estado_bitacora": "Facturacion",
+        "actividad_bitacora": "Pendiente PH"
+    },
+    {
+        "marca": null,
+        "asesor": "Leidy Magali Leon Tafur",
+        "id_bitacora": 67801,
+        "punto_de_venta": "SUZUKI HEROES BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67803,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67806,
+        "punto_de_venta": null,
+        "estado_bitacora": "Pdte Gestionar",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Rosalba Rodriguez Duarte",
+        "id_bitacora": 67807,
+        "punto_de_venta": "ZAGAMOTOS KENNEDY BOGOTA",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Albeiro Antonio Villa Arroyave",
+        "id_bitacora": 67812,
+        "punto_de_venta": "DOSQUEBRADAS",
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    },
+    {
+        "marca": null,
+        "asesor": "Sin Asesor",
+        "id_bitacora": 67814,
+        "punto_de_venta": null,
+        "estado_bitacora": "En Proceso",
+        "actividad_bitacora": "Sin Contacto"
+    }
+]
