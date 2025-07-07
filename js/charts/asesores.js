@@ -1,4 +1,6 @@
-export function renderAsesores(data) {
+import { filterData } from "../state/filters.js";
+
+export function renderAsesores(data, pastelColors) {
   // Crear nuevo JSON con valores únicos de marca y contarlos
   const conteoAsesores = {};
 
@@ -8,14 +10,16 @@ export function renderAsesores(data) {
   });
 
   const asesoresOrdenados = Object.fromEntries(
-  Object.entries(conteoAsesores).sort(([, a], [, b]) => a - b)
-);
- 
+    Object.entries(conteoAsesores).sort(([, a], [, b]) => a - b)
+  );
+
   const etiquetAsasesor = Object.keys(asesoresOrdenados);
   const valoresAsesor = Object.values(asesoresOrdenados);
-  
+
+  const contenedor = document.getElementById("asesores");
+  echarts.dispose(contenedor); // 💥 Limpia cualquier gráfico anterior
   // Initialize the echarts instance based on the prepared dom
-  var myChart = echarts.init(document.getElementById("asesores"));
+  const myChart = echarts.init(contenedor);
 
   // Specify the configuration items and data for the chart
   var option = {
@@ -61,14 +65,7 @@ export function renderAsesores(data) {
         },
         itemStyle: {
           color: function (params) {
-            const colores = [
-              "#0000FF",
-              "#FF0000",
-              "#000000",
-              "#00FF00",
-              "#FFA500",
-            ];
-            return colores[params.dataIndex % colores.length];
+            return pastelColors[params.dataIndex % pastelColors.length];
           },
         },
         data: valoresAsesor,
@@ -78,4 +75,10 @@ export function renderAsesores(data) {
 
   // Display the chart using the configuration items and data just specified.
   myChart.setOption(option);
+
+  // Evento click para filtrar
+  myChart.on("click", function (params) {
+    console.log(params);
+    filterData("asesor", params.name);
+  });
 }

@@ -1,4 +1,6 @@
-export function renderActividadesBitacora(data) {
+import { filterData } from "../state/filters.js";
+
+export function renderActividadesBitacora(data,pastelColors) {
   // Crear nuevo JSON con valores únicos de marca y contarlos
   const conteoActividadesBitacora = {};
 
@@ -14,12 +16,15 @@ export function renderActividadesBitacora(data) {
       name: marca,
     })
   );
-
+  
+  const contenedor = document.getElementById("actividades-bitacora");
+  echarts.dispose(contenedor); // 💥 Limpia cualquier gráfico anterior
   // Initialize the echarts instance based on the prepared dom
-  var myChart = echarts.init(document.getElementById("actividades-bitacora"));
+  const myChart = echarts.init(contenedor);
 
   // Specify the configuration items and data for the chart
   var option = {
+    color: pastelColors,
     title: {
       text: "Actividades Bitacoras",
       // subtext: "Fake Data",
@@ -42,7 +47,7 @@ export function renderActividadesBitacora(data) {
         name: "Actividad",
         type: "pie",
         radius: "30%",
-        center: ["50%", "60%"],
+        center: ["50%", "70%"],
         label: {
           show: true,
           formatter: "{b}:({d}%)", // b = nombre, c = valor, d = porcentaje
@@ -61,4 +66,10 @@ export function renderActividadesBitacora(data) {
 
   // Display the chart using the configuration items and data just specified.
   myChart.setOption(option);
+
+  // Evento click para filtrar
+  myChart.on("click", function (params) {
+      console.log(params);
+      filterData("actividad_bitacora", params.name);
+    });
 }

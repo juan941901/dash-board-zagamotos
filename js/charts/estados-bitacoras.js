@@ -1,4 +1,6 @@
-export function renderEstadosBitacoras(data) {
+import { filterData } from "../state/filters.js";
+
+export function renderEstadosBitacoras(data,pastelColors) {
 
   // Crear nuevo JSON con valores únicos de marca y contarlos
   const conteoEstadosBitacora = {};
@@ -14,11 +16,14 @@ export function renderEstadosBitacoras(data) {
   }));
 
 
+  const contenedor = document.getElementById("estados-bitacoras");
+  echarts.dispose(contenedor); // 💥 Limpia cualquier gráfico anterior
   // Initialize the echarts instance based on the prepared dom
-  var myChart = echarts.init(document.getElementById("estados-bitacoras"));
+  const myChart = echarts.init(contenedor);
 
   // Specify the configuration items and data for the chart
   var option = {
+    color:pastelColors,
     title: {
       text: "Estado Bitacoras",
       // subtext: "Fake Data",
@@ -62,10 +67,9 @@ export function renderEstadosBitacoras(data) {
 
   // Evento click para filtrar
   myChart.on("click", function (params) {
-    const marcaSeleccionada = params.name;
     console.log(params);
     
-    // filtrarPorMarcaYRenderizarTodo(data, marcaSeleccionada);
+    filterData("estado_bitacora", params.name);
   });
 
   myChart.on("legendselectchanged", function (params) {

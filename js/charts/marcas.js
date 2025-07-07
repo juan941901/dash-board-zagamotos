@@ -1,10 +1,14 @@
-export function renderMarcas(items) {
+import { filterData } from "../state/filters.js";
+
+export function renderMarcas(items,pastelColors) {
 
   // Crear nuevo JSON con valores únicos de marca y contarlos
   const conteoMarcas = {};
 
   items.forEach((item) => {
-    const marca = item.marca ?? "Sin Marca";
+    const marca = (item.marca === null || item.marca === undefined || item.marca === "") 
+  ? "Sin Marca" 
+  : item.marca;
     conteoMarcas[marca] = (conteoMarcas[marca] || 0) + 1;
   });
 
@@ -13,12 +17,14 @@ export function renderMarcas(items) {
     name: marca,
   }));
 
+  const contenedor = document.getElementById("marcas");
+  echarts.dispose(contenedor); // 💥 Limpia cualquier gráfico anterior
   // Initialize the echarts instance based on the prepared dom
-  var myChart = echarts.init(document.getElementById("marcas"));
+  const myChart = echarts.init(contenedor);
 
   // Specify the configuration items and data for the chart
   var option = {
-    color: ["#0000FF", "#FF0000", "#000000"],
+    color: pastelColors,
     title: {
       text: "Marcas", // ← Título principal
       left: "center",
@@ -57,4 +63,11 @@ export function renderMarcas(items) {
 
   // Display the chart using the configuration items and data just specified.
   myChart.setOption(option);
+
+  // Evento click para filtrar
+  myChart.on("click", function (params) {
+    console.log(params);
+    
+    filterData("marca", params.name);
+  });
 }

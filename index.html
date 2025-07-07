@@ -5,38 +5,56 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="./libs/tailwind.js"></script>
-  
+
   <title>Document</title>
 </head>
 
-<body class="w-3xs md:w-full overflow-x-hidden">
+<body>
 
-  <!--Datos globales sobre resgitros de contacto-->
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 p-4 w-3xs md:w-full bg-gray-100 overflow-x-hidden">
-    <div id="total-registros" class="p-4 text-center">
-      <h2 class="text-3xl font-bold ">0</h2>
-      <h2><b>Total registros</b></h2>
-    </div>
-    <div id="total-registros-culminado" class="p-4 text-center">
+  <div class="w-3xs md:w-full overflow-x-hidden">
+    <!--Datos globales sobre resgitros de contacto-->
+    <div class="grid grid-cols-1 md:grid-cols-2  gap-4 p-4 w-3xs md:w-full bg-gray-100 overflow-x-hidden">
+      <div id="total-registros" class="p-4 text-center">
+        <h2 class="text-3xl font-bold ">0</h2>
+        <h2><b>Total registros</b></h2>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 items-center">
+        <div id="fechas-consulta" class="p-4 text-center">
+          <label for="fecha-inicial">
+            <input id="fecha-inicial" type="date">
+          </label>
+          <label for="fecha-final">
+            <input id="fecha-final" type="date">
+          </label>
+        </div>
+        <button
+          class="mt-4 bg-blue-600 text-white font-semibold px-4 py-2 rounded hover:bg-blue-700 transition">
+          Consultar
+        </button>
+      </div>
+      <!-- <div id="total-registros-culminado" class="p-4 text-center">
       <h2 class="text-3xl font-bold">0</h2>
-      <h2><b>Sin Contacto</b></h2>
+      <h2><b>Pendiente sin Gestionar</b></h2>
     </div>
     <div id="total-registros-sin-culminado" class="p-4 text-center">
       <h2 class="text-3xl font-bold">0</h2>
       <h2><b>Contactados</b></h2>
+    </div> -->
     </div>
-  </div>
-  <!-- Graficos sobre tipos de proceso -->
-  <div class="grid place-items-center grid-cols-1 md:grid-cols-3 gap-4 p-4 w-3xs bg-gray-100 w-3xs md:w-full overflow-x-hidden">
-    <div id="marcas" class="w-3xs md:w-full h-96 bg-white"></div>
-    <div id="estados-bitacoras" class="w-3xs md:w-full h-96 bg-white"></div>
-    <div id="actividades-bitacora" class="w-3xs md:w-full h-96 bg-white"></div>
-  </div>
-  
-  <!-- Graficos pedidos -->
-  <div class="grid place-items-center grid-cols-1 md:grid-cols-2 gap-4 p-4 w-3xs bg-gray-100 w-3xs md:w-full overflow-x-hidden">
-    <div id="puntos-de-venta" class="w-3xs md:w-full h-96 bg-white"></div>
-    <div id="asesores" class="w-3xs md:w-full h-96 bg-white"></div>
+    <!-- Graficos sobre tipos de proceso -->
+    <div
+      class="grid place-items-center grid-cols-1 md:grid-cols-3 gap-4 p-4 w-3xs bg-gray-100 w-3xs md:w-full overflow-x-hidden">
+      <div id="marcas" class="w-3xs md:w-full h-96 bg-white"></div>
+      <div id="estados-bitacoras" class="w-3xs md:w-full h-96 bg-white"></div>
+      <div id="actividades-bitacora" class="w-3xs md:w-full h-96 bg-white"></div>
+    </div>
+
+    <!-- Graficos pedidos -->
+    <div
+      class="grid place-items-center grid-cols-1 md:grid-cols-2 gap-4 p-4 w-3xs bg-gray-100 w-3xs md:w-full overflow-x-hidden">
+      <div id="puntos-de-venta" class="w-3xs md:w-full h-96 bg-white"></div>
+      <div id="asesores" class="w-3xs md:w-full h-96 bg-white"></div>
+    </div>
   </div>
 
   <script src="./libs/echarts.min.js"></script>

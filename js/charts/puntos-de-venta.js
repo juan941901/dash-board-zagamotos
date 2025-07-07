@@ -1,4 +1,6 @@
-export function renderPuntosDeVenta(items) {
+import { filterData } from "../state/filters.js";
+
+export function renderPuntosDeVenta(items,pastelColors) {
   // Crear nuevo JSON con valores únicos de marca y contarlos
   const conteoPuntoDeVenta = {};
 
@@ -15,12 +17,13 @@ export function renderPuntosDeVenta(items) {
   const etiquetasPuntoDeVenta = Object.keys(puntosDeVentaOrdenados);
   const valoresPuntoDeVenta = Object.values(puntosDeVentaOrdenados);
 
+  const contenedor = document.getElementById("puntos-de-venta");
+  echarts.dispose(contenedor); // 💥 Limpia cualquier gráfico anterior
   // Initialize the echarts instance based on the prepared dom
-  var myChart = echarts.init(document.getElementById("puntos-de-venta"));
+  const myChart = echarts.init(contenedor);
 
   // Specify the configuration items and data for the chart
   var option = {
-    color: ["#0000FF", "#FF0000", "#000000"],
     tooltip: { trigger: "item" },
     title: {
       text: "Puntos de Venta", // ← Título principal
@@ -64,16 +67,7 @@ export function renderPuntosDeVenta(items) {
         itemStyle: {
           color: function (params) {
             // Selecciona el color según el índice
-            const colores = [
-              "#0000FF",
-              "#FF0000",
-              "#000000",
-              "#00FF00",
-              "#FFA500",
-              "#800080",
-              "#00CED1",
-            ];
-            return colores[params.dataIndex % colores.length];
+            return pastelColors[params.dataIndex % pastelColors.length];
           },
         },
         data: valoresPuntoDeVenta,
@@ -83,4 +77,13 @@ export function renderPuntosDeVenta(items) {
 
   // Display the chart using the configuration items and data just specified.
   myChart.setOption(option);
+
+
+  // Evento click para filtrar
+  myChart.on("click", function (params) {
+    console.log(params);
+    
+    filterData("punto_de_venta", params.name);
+  });
+
 }
